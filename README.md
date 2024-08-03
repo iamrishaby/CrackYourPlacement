@@ -16,7 +16,7 @@ The repository is organized as follows:
 
 ## Connect with Me
 
-- **Twitter**: [TwitterHandle](https://x.com/wordrish)
+- **Twitter**: [TwitterHandle]()
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/iamrishaby/)
 - **Email**: [Email](rishab130402@gmail.com)
 
